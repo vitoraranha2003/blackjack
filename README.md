@@ -1,5 +1,9 @@
 | Próximas atualizações| : 
 
+- Contador de Dinheiro
+- Dividir, Dobrar e Desistir
+- Executável 
+- Apagar print do console
 
 
 
