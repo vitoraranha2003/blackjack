@@ -1,6 +1,6 @@
-================
-   BLACKJACK
-================
+| Próximas atualizações| : 
+
+
 
 
 #Início: os jogadores começam com um dinheiro inicial de $1000 e apostam antes de jogar. Os jogadores ou o jogador, jogam contra o dealer, não contra eles mesmos. O objetivo é não passar de 21 e fazer uma pontuação melhor que o dealer.
